@@ -1,4 +1,4 @@
-Red Miner is a updated version of Lime Miner by NYAN-x-CAT this version includes updated versions of xmrig currently at the time of release version 2.13.1 this "fork" however does not include GPU mining of anysort due to me being an idiot and with no understanding of coding The reason I did this was I needed a updated version of xmrig and because I thought it would be a good learning experience If the need arises I might update it to future versions of xmrig or even add GPU support (I hightly doubt I can do that )
+Red Miner is a updated version of Lime Miner by NYAN-x-CAT this version includes updated versions of xmrig currently at the time of release version 2.13.1 this "fork" however does not include GPU mining of anysort due to me being an idiot and with no understanding of coding The reason I made this was I needed a updated version of xmrig and because I thought it would be a good learning experience If the need arises I might update it to future versions of xmrig or even add GPU support (I hightly doubt I can do that )
 
 
 Link to Releases:
