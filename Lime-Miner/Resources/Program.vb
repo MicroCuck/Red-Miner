@@ -1,9 +1,9 @@
 ﻿
 
-'       │ Author     : NYAN CAT
-'       │ Name       : Lime Miner
-
-'       Contact Me    https : //github.com/NYAN-x-CAT
+'       │ Original Author     : NYAN CAT
+'       │ Original Name       : Lime Miner
+'       │ New Name            : Red Miner
+'       Original Contact Me    https : //github.com/NYAN-x-CAT
 
 '       This program Is distributed for educational purposes only.
 
