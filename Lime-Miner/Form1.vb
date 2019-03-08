@@ -16,7 +16,7 @@ Public Class Form1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
         CheckForIllegalCrossThreadCalls = False
         Codedom.F = Me
-        HuraForm1.Text = "Red Miner 2019 Original Author (Lime Miner) NYAN-x-CAT @" + Environment.UserName
+        HuraForm1.Text = "Red Miner 2019.2 Original Author (Lime Miner) NYAN-x-CAT @" + Environment.UserName
 
         BackgroundWorker1.RunWorkerAsync()
         GiveTip()
